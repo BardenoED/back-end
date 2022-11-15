@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need :
 
-- ![Git](https://git-scm.com/downloads)
+- <a href="https://git-scm.com/downloads" target="_blank">Git</a>
 
 ### Installation
 
